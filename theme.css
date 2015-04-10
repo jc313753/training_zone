@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.banner{
+    background-image: url(sand_pale.jpg);
+    background-repeat: repeat;
+    background-position: center;
+    text-align: center;
+    text-decoration-color: white;
+    height: 3em;
+}
+
+.menu{
+    background-color: dodgerblue;
+    padding: 3px;
+}
+.footer{
+    padding-top: 1em;
+    padding-bottom: .5em;
+    background-color: #303030;
+    color: lightgray;
+}
+
+.footer-inside{
+    margin-left: 2em;
+    width: 20%;
+    align-self: center;
+    display: inline-block;
+}
+
+.register{
+    text-align: center;
+}
+
+.announce{
+    background-color: dodgerblue;
+    flex-wrap: wrap;
+}

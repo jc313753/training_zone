@@ -1,0 +1,41 @@
+body{
+    line-height: 1.5;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    padding: 1em;
+}
+
+img{
+    width: 40%;
+    height: auto;
+    float: right;
+}
+
+a:visited{
+    color: black;
+    text-decoration: none
+}
+
+a:link{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+    background-color: aqua;
+}
+
+table{
+    width: 100%;
+}
+
+th, td{
+    border: 2px solid black;
+    padding-left: .5em;
+}
